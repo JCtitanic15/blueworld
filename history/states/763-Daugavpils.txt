@@ -1,0 +1,28 @@
+state={
+	id=763
+	name="STATE_652" # Orenburg
+	manpower = 310225
+	state_category = city
+	
+	resources={
+		steel=1 # was: 2
+	}
+
+	history={
+		owner = RSS
+		victory_points = {
+			310 1 
+		}
+		buildings = {
+			infrastructure = 4
+			310 = {
+				bunker = 2
+			}
+		}
+		add_core_of = RSS
+	}
+
+	provinces={
+		222 319 310 341 3298 6459 9275
+	}
+}
