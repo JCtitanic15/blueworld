@@ -1,1 +1,2 @@
 RSS = "countries/Soviet Union.txt"
+RFR = "countries/RFSR.txt"
