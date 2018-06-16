@@ -1,2 +1,8 @@
 RSS = "countries/Soviet Union.txt"
 RFR = "countries/RFSR.txt"
+GRA = "countries/Georgia.txt"
+DCA = "countries/Dagestan-Chechnya.txt"
+ARM = "countries/Armenia.txt"
+CCO = "countries/CCO.txt"
+LIT = "countries/Lithuania.txt"
+BAT = "countries/Baltic Union.txt"
