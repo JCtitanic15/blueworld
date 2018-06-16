@@ -82,6 +82,6 @@ create_country_leader = {
 	name = "Vladimir Putin"
 #	desc = "POLITICS_RUSLAN_MILLOSHI_DESC"
 	picture = "Portrait_FER_Vladimir_Putin.dds"
-	ideology = national_communist
+	ideology = nationalist_conservative
 }
 
