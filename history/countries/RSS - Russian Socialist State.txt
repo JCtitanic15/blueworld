@@ -80,8 +80,8 @@ set_politics = {
 
 create_country_leader = {
 	name = "Ruslan Khasbulatov"
-#	desc = "POLITICS_HYSNI_MILLOSHI_DESC"
-	picture = "Portrait_SOV_Alexander_Rutskoy.dds"
+#	desc = "POLITICS_RUSLAN_MILLOSHI_DESC"
+	picture = "Portrait_RSS_Ruslan_Khasbulatov.dds"
 	ideology = national_communist
 }
 
