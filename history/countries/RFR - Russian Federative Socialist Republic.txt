@@ -74,6 +74,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Mikhail Gorbachev"
-	picture = "Portrait_RSS_Mikhail_Gorbachev.dds"
+	picture = "Portrait_RFR_Mikhail_Gorbachev.dds"
 	ideology = moderate_socialism
 }
