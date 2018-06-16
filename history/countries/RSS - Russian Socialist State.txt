@@ -104,7 +104,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Vladimir Putin"
+	name = "Not Vladimir Putin"
 	picture = "Portrait_ALB_Idajet_Beqiri.dds"
 	ideology = oligarchic_federationism
 }

@@ -1,0 +1,79 @@
+﻿capital = 217
+
+oob = "generic_2000"
+
+set_research_slots = 4
+set_convoys = 500
+set_stability = 0.8
+set_war_support = 0.3
+
+set_technology = {
+	support_weapons = 1
+	infantry_weapons = 1
+	motorised_infantry = 1 
+	tech_support = 1 
+	tech_field_hospital = 1 
+	tech_engineers = 1 
+	gwtank = 1 
+	basic_light_tank = 1 
+	gw_artillery = 1 
+	tech_mountaineers = 1
+	early_fighter = 1 
+	early_bomber = 1 
+	paratroopers = 1 
+	interwar_antiair = 1
+	interwar_antitank = 1
+}
+
+set_politics = {
+
+	parties = {
+		fascist = {
+			popularity = 0
+		}
+		nationalist = {
+			popularity = 0
+		}
+		monarchist = {
+			popularity = 0
+		}
+		national_federationist = {
+			popularity = 0
+		}
+		corporationist = {
+			popularity = 0
+		}
+		national_conservative = {
+			popularity = 15
+		}
+		libertarian = {
+			popularity = 10
+		}
+		liberal = {
+			popularity = 15
+		}
+		labourist = {
+			popularity = 15
+		}
+		democratic_socialist = {
+			popularity = 30
+		}
+		marxist_socialist = {
+			popularity = 5
+		}
+		communist = {
+			popularity = 10
+		}
+	}
+	
+	ruling_party = democratic_socialist
+	last_election = "1997.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Mikhail Gorbachev"
+	picture = "Portrait_RFR_Mikhail_Gorbachev.dds"
+	ideology = moderate_socialism
+}
