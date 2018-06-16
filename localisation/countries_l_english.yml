@@ -307,3 +307,7 @@
  BAT_democratic_socialist_ADJ:0 "Baltic"
  BAT_marxist_socialist_ADJ:0 "Baltic"
  BAT_communist_ADJ:0 "Baltic"
+ 
+ FER_national_conservative:0 "Republican Russia"
+ FER_national_conservative_DEF:0 "Republican Russia
+ FER_national_conservative_ADJ:0 "Republican Russian"
