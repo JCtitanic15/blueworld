@@ -9,4 +9,8 @@ BAT = "countries/Baltic Union.txt"
 FER = "countries/Far Eastern Republic.txt"
 SIB = "countries/Siberian Federation.txt"
 NKR = "countries/National Kievanrussia.txt"
+<<<<<<< HEAD
 CBR = "countries/Centralized Belarussia.txt"
+=======
+KZK = "countries/Kazakhstan.txt"
+>>>>>>> 25b14d5e3202d986d7bddc3d91dff8a70128c89e
