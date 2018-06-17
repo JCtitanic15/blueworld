@@ -1,0 +1,10 @@
+
+
+graphical_culture = eastern_european_gfx
+graphical_culture_2d = eastern_european_2d
+
+<<<<<<< HEAD
+color = { 5 104 21 }
+=======
+color = { 180 220 190 } #
+>>>>>>> f44d427254f654e3fd2ab2b09fd1b85bae24636b
