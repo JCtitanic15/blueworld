@@ -81,7 +81,7 @@ set_politics = {
 create_country_leader = {
 	name = "Aleksandr Chumakov"
 #	desc = "POLITICS_RUSLAN_MILLOSHI_DESC"
-	picture = "Portrait_CBR_Alexandr_Chumakov.dds"
+	picture = "Portrait_CBR_Aleksandr_Chumakov.dds"
 	ideology = socialist_fascism
 }
 
