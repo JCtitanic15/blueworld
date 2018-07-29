@@ -110,9 +110,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Aleksey Zhuravlyov"
+	name = "Boris Titov"
 	picture = "Portrait_ALB_Fatmir_Mediu.dds"
-	ideology = nationalist_conservative
+	ideology = social_conservative
 }
 
 create_country_leader = {

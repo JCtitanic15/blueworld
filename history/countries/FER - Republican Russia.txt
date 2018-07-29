@@ -79,9 +79,15 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Vladimir Putin"
+	name = "Alexei Zhuravlyov"
 #	desc = "POLITICS_RUSLAN_MILLOSHI_DESC"
-	picture = "Portrait_FER_Vladimir_Putin.dds"
+#	picture = "Portrait_FER_Vladimir_Putin.dds"
 	ideology = nationalist_conservative
 }
 
+create_country_leader = {
+	name = "Vladimir Putin"
+#	desc = "POLITICS_RUSLAN_MILLOSHI_DESC"
+	picture = "Portrait_FER_Vladimir_Putin.dds"
+	ideology = national_communist
+}
