@@ -1,0 +1,251 @@
+﻿capital = 267
+
+#oob = "AFG_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+	basic_light_tank = 1
+}
+
+1939.1.1 = {
+
+	add_political_power = 1198
+	
+	#generic focuses
+	complete_national_focus = army_effort
+	complete_national_focus = equipment_effort
+	complete_national_focus = motorization_effort
+	complete_national_focus = aviation_effort
+	complete_national_focus = construction_effort_2
+	complete_national_focus = production_effort_2
+	complete_national_focus = infrastructure_effort
+	complete_national_focus = industrial_effort
+	complete_national_focus = construction_effort
+	complete_national_focus = production_effort
+	
+	oob = "AFG_1939"
+	set_technology = {
+		early_fighter = 1
+		CAS1 = 1
+		gw_artillery = 1
+
+		#doctrines
+		air_superiority = 1
+		grand_battle_plan = 1
+		trench_warfare = 1
+		fleet_in_being = 1
+		battlefleet_concentration = 1
+		convoy_sailing = 1
+
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		radio_detection = 1
+		mechanical_computing = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		synth_oil_experiments = 1
+		oil_processing = 1
+		improved_oil_processing = 1
+		construction1 = 1
+		construction2 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+	}
+}
+
+set_politics = {
+
+	parties = {
+		#Klu Klux Klan
+		fascist = {
+			popularity = 2
+		}
+		#Republican Party (Nationalist Wing)
+		nationalist = {
+			popularity = 12
+		}
+		#Council to Establish Monarchism in America
+		monarchist = {
+			popularity = 1
+		}
+		#Constitution Party
+		corporationist = {
+			popularity = 24
+		}
+		#American Liberation Front
+		national_federationist = {
+			popularity = 1
+		}
+		#Republican Party (Conservative Wing)
+		national_conservative = {
+			popularity = 16
+		}
+		#Libertarian Party
+		libertarian = {
+			popularity = 8
+		}
+		#Democratic Party (Liberal Wing)
+		liberal = {
+			popularity = 22
+		}
+		#Democratic Party (Socialist Wing)
+		labourist = {
+			popularity = 10
+		}
+		#Workers Party of the United States
+		democratic_socialist = {
+			popularity = 2
+		}
+		#Industrial Workers of the World
+		marxist_socialist = {
+			popularity = 1
+		}
+		#United Communes of America
+		communist = {
+			popularity = 1
+		}
+	}
+	
+	ruling_party = nationalist
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "John Kasich"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = american_republicanism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Joseph Biden"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = social_liberal
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Elizabeth Warren"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = progressivism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "George Bush"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = american_democratic_corporationism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "William F. Weld"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = right_libertarian
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Noam Chomsky"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = libertarian_communism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "David Duke"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = national_socialist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Richard B. Spencer"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = ethnic_nationalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Joe Wilson"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = authoritarian_democracy
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Barrack Obama"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = electoral_body
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Larry Holmes"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = trotskyist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Pat Noble"
+#	desc = "POLITICS_MOHAMMED_ZAHIR_SHAH_DESC"
+#	picture = "Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+#	expire = "1965.1.1"
+	ideology = moderate_socialist
+	traits = {
+		#
+	}
+}

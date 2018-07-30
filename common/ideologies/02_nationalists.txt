@@ -12,6 +12,9 @@ ideologies = {
 		
 			authoritarian_democracy = {
 			}
+
+			cultural_nationalism = {
+			}
 			
 			
 		}

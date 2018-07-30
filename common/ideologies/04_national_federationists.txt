@@ -19,6 +19,9 @@ ideologies = {
 			national_capitalism = {
 			}
 
+			ethnic_nationalism = {
+			}
+
 		}
 		
 		dynamic_faction_names = {

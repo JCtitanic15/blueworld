@@ -6,6 +6,15 @@ ideologies = {
 		
 			absolute_monarchist = {
 			}
+
+			consitutional_monarchist = {
+			}
+
+			privy_council = {
+			}
+
+			electoral_body = {
+			}
 			
 		}
 		

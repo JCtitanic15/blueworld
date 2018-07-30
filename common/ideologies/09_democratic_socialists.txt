@@ -11,7 +11,9 @@ ideologies = {
 			}
 
 			leftist_nationalist = {
+			}
 
+			democratic_socialist = {
 			}
 			
 		}
