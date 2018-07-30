@@ -66,10 +66,6 @@ set_politics = {
 		fascist = {
 			popularity = 2
 		}
-		#Republican Party (Nationalist Wing)
-		nationalist = {
-			popularity = 12
-		}
 		#Council to Establish Monarchism in America
 		monarchist = {
 			popularity = 1
@@ -82,13 +78,13 @@ set_politics = {
 		national_federationist = {
 			popularity = 1
 		}
+		#Republican Party (Nationalist Wing)
+		nationalist = {
+			popularity = 12
+		}
 		#Republican Party (Conservative Wing)
 		national_conservative = {
 			popularity = 16
-		}
-		#Libertarian Party
-		libertarian = {
-			popularity = 8
 		}
 		#Democratic Party (Liberal Wing)
 		liberal = {
@@ -97,6 +93,10 @@ set_politics = {
 		#Democratic Party (Socialist Wing)
 		labourist = {
 			popularity = 10
+		}
+		#Libertarian Party
+		libertarian = {
+			popularity = 8
 		}
 		#Workers Party of the United States
 		democratic_socialist = {
