@@ -77,3 +77,15 @@ create_country_leader = {
 	picture = "Portrait_RFR_Mikhail_Gorbachev.dds"
 	ideology = moderate_socialism
 }
+
+create_country_leader = {
+	name = "Dmitry Medvedev"
+	picture = ""
+	ideology = reactionary
+}
+
+create_country_leader = {
+	name = "Ivan Melnikov"
+	picture = ""
+	ideology = marxist
+}
